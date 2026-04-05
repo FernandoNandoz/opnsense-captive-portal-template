@@ -42,25 +42,13 @@
         "item6": {
             "title": "კონფიდენციალურობის პოლიტიკა",
             "icon": "&#167;",
-            "href": {
-                "type": "modal",
-                "title": "privacy_title",
-                "subtitle": "privacy_subtitle",
-                "content": "privacy_content",
-                "iconText": "&#167;"
-            },
+            "href": {"type": "modal", "title": "privacy_title", "subtitle": "privacy_subtitle", "content": "privacy_content", "iconText": "&#167;"},
             "target": "_self"
         },
         "item7": {
             "title": "Cookies ფაილები",
             "icon": "&#9865;",
-            "href": {
-                "type": "modal",
-                "title": "cookies_title",
-                "subtitle": "cookies_subtitle",
-                "content": "cookies_content",
-                "iconText": "&#9865;"
-            },
+            "href": {"type": "modal", "title": "cookies_title", "subtitle": "cookies_subtitle", "content": "cookies_content", "iconText": "&#9865;"},
             "target": "_self"
         },
         "item8": {
@@ -72,13 +60,7 @@
         "item9": {
             "title": "პროგრამის შესახებ",
             "icon": "&#9873;",
-            "href": {
-                "type": "modal",
-                "title": "about_title",
-                "subtitle": "about_subtitle",
-                "content": "about_content",
-                "iconText": "&#9873;"
-            },
+            "href": {"type": "modal", "title": "about_title", "subtitle": "about_subtitle", "content": "about_content", "iconText": "&#9873;"},
             "target": "_self"
         },
         "group1": {

@@ -101,7 +101,7 @@
     "noscript": "Atenție: Pentru a te autentifica corect, JavaScript în browser trebuie să fie activat.",
     "cp_portal_head_title": "Sistem de autentificare utilizatori",
     "cp_portal_tooltip_title": "Nu ai cod?",
-    "cp_portal_info": "Accesul la Internet în rețeaua <Numele ISP> necesită introducerea login-ului și parolei. Parola și login-ul trebuie protejate de utilizator împotriva pierderii sau accesului terților.",
+    "cp_portal_info": "Accesul la Internet în rețeaua <&nbsp;Nume ISP&nbsp;> necesită introducerea login-ului și parolei. Parola și login-ul trebuie protejate de utilizator împotriva pierderii sau accesului terților.",
     "cp_portal_cookies_note": "Sistemul de autentificare utilizează cookie-uri pentru stocarea informațiilor pe computerul tău. Cookie-urile sunt folosite pentru a oferi servicii la cel mai înalt nivel, inclusiv adaptate nevoilor individuale ale utilizatorului. Utilizarea portalului fără schimbarea setărilor cookie înseamnă că acestea vor fi plasate pe dispozitivul tău final.",
     "cp_portal_ifconfig_event_normal": "Configurarea interfeței de rețea",
     "cp_portal_ifconfig_event_none": "Configurarea interfeței de rețea",
