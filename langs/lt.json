@@ -8,7 +8,7 @@
         "aria-label": "Informacija apie interneto tiekėją"
     },
     "menu": {
-        "title": "GuardianTuxedo Menu",
+        "title": "GuardianSuit Menu",
         "item1": {
             "title": "Internetas",
             "icon": "I",
@@ -169,9 +169,9 @@
     "logoff_data-content": "Paspaudę mygtuką <strong>Atsijungimas<\/strong> nutrauksite interneto ryšį.",
     "menuTrigger_data-title": "Offcanvas meniu",
     "menuTrigger_data-content": "Spustelėjus <strong>&#9776; offcanvas hamburger<\/strong> arba vienu metu klaviatūroje paspaudus <strong>%s<\/strong>, atsidarys kontekstinis meniu.",
-    "about_title": "GuardianTuxedo",
+    "about_title": "GuardianSuit",
     "about_subtitle": "Pažangus Captive Portal šablonas, skirtas OPNsense",
-    "about_content": "<p><b>GuardianTuxedo<\/b> – tai modernus, adaptyvus ir animuotas Captive Portal šablonas, skirtas OPNsense. Jis suteikia naudotojams patrauklią prisijungimo patirtį, o administratoriams – visišką pasveikinimo puslapio išvaizdos ir funkcionalumo kontrolę.<\/p><p><b>Pagrindinės funkcijos:<\/b><\/p><ul><li>Adaptyvus dizainas ir animacijos.<\/li><li>Daugiakalbystė.<\/li><li>Lengvas išvaizdos ir spalvų pritaikymas.<\/li><li>Intuityvus UX ir atitiktis WCAG reikalavimams.<\/li><li>Paprasta integracija su OPNsense.<\/li><\/ul><p><b>Pritaikymas:<\/b><br \/>Puikiai tinka įmonių tinklams, viešbučiams, kavinėms ir kitoms vietoms, kurioms reikalingas vizualiai patrauklus Captive Portal pasveikinimo puslapis.<\/p><p><b>Autorius:<\/b> Mirosław Majka &lt;mix@proask.pl&gt; | &copy; 2026 GuardianTuxedo<\/p>",
+    "about_content": "<p><b>GuardianSuit<\/b> – tai modernus, adaptyvus ir animuotas Captive Portal šablonas, skirtas OPNsense. Jis suteikia naudotojams patrauklią prisijungimo patirtį, o administratoriams – visišką pasveikinimo puslapio išvaizdos ir funkcionalumo kontrolę.<\/p><p><b>Pagrindinės funkcijos:<\/b><\/p><ul><li>Adaptyvus dizainas ir animacijos.<\/li><li>Daugiakalbystė.<\/li><li>Lengvas išvaizdos ir spalvų pritaikymas.<\/li><li>Intuityvus UX ir atitiktis WCAG reikalavimams.<\/li><li>Paprasta integracija su OPNsense.<\/li><\/ul><p><b>Pritaikymas:<\/b><br \/>Puikiai tinka įmonių tinklams, viešbučiams, kavinėms ir kitoms vietoms, kurioms reikalingas vizualiai patrauklus Captive Portal pasveikinimo puslapis.<\/p><p><b>Autorius:<\/b> Mirosław Majka &lt;mix@proask.pl&gt; | &copy; 2025 GuardianSuit<\/p>",
     "cookies_title": "Slapukai",
     "cookies_subtitle": "Kaip naudojami slapukai.",
     "cookies_content": "<h5>Kas yra slapukas?<\/h5><p>Slapukai (angl. cookies) – tai maži tekstiniai failai, automatiškai sukuriami interneto naršyklės lankantis WWW svetainėse. Informacija, esanti konkrečiame slapuke, gali būti perskaitoma tik tos svetainės, iš kurios jis kilo. Todėl interneto svetainė neturi prieigos prie kitų failų, esančių naudotojo kompiuteryje.<\/p><p>Slapukuose esanti informacija leidžia svetainei „žinoti“, kaip ja naudojatės, ir atitinkamai pritaikyti Jums rodomą turinį arba pasiūlyti pagalbą.<\/p><h5>Kokiais tikslais naudojame slapukus?<\/h5><p>Svetainėje naudojame techninius slapukus, kurie yra būtini tinkamam svetainės veikimui. Juos naudojame tam, kad optimizuotume svetainę pagal įrenginius ir naršykles, kurias dažniausiai naudoja lankytojai – taip Jūsų kompiuteris, planšetė ar telefonas ją atvaizduos teisingai ir aiškiai, taip pat bus įsiminta, ar sutikote su tam tikro turinio rodymu svetainėje.<\/p><p>Naudotojas negali atsisakyti techninių slapukų.<\/p><h5>Kiek laiko naudojame slapukus?<\/h5><p>Naudojame vadinamuosius nuolatinius slapukus, kurie lieka Jūsų įrenginyje tam tikrą laiką arba iki jų rankinio ištrynimo.<\/li><\/ul><h5>Kokius duomenis renkame naudodami slapukus?<\/h5><p>Naudodami slapukų technologiją renkame tik anoniminius techninius duomenis, skirtus pagerinti naudojimosi mūsų svetaine patogumą.<\/p><p>Nerenkame jokių duomenų, leidžiančių Jus identifikuoti. Vienintelė informacija apie naudotoją, kuri pati savaime, nesusiejus su kitais duomenimis, neleidžia jo identifikuoti, yra IP adresas, iš kurio naudotojas jungiasi.<\/p>",
